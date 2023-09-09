@@ -61,7 +61,7 @@ export default function Second() {
                 <div className="text-center bg-white rounded-2xl p-4 h-30">
                     <div className="pb-4">
                         <Image
-                            src="/images/Skateboard.svg" 
+                            src="/images/skateboard.svg" 
                             alt="Skateboard image"
                             width={500}
                             height={300}
